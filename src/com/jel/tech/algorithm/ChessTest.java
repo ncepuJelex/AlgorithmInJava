@@ -8,7 +8,7 @@ import java.util.Arrays;
  * 	口口  口口  口	 口
  * 	口     口  口口  口口
  * 
- * @author zhenhua
+ * @author Jelex.xu
  *	2017年2月15日
  */
 public class ChessTest {
